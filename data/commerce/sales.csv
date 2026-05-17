@@ -1,0 +1,906 @@
+sale_id,channel,discounted,total_amount,sale_date,customer_id,country
+FR-10,E-commerce,0,299.7,2025-05-21,195,france
+DE-100,App Mobile,0,681.05,2025-04-21,518,DE
+DE-1000,E-commerce,0,324.5,2025-05-20,439,DE
+DE-1001,E-commerce,0,287.85,2025-04-05,349,DE
+PT-1003,App Mobile,0,430.64,2025-06-06,727,PT
+DE-1004,App Mobile,0,104.73,2025-04-27,983,Germany
+ES-1006,E-commerce,0,249.21,2025-05-05,309,ES
+IT-1007,App Mobile,0,437.52,2025-04-16,53,Italy
+FR-1008,App Mobile,0,386.92,2025-05-24,593,FR
+ES-1011,App Mobile,0,212.87,2025-04-17,161,Spain
+FR-1013,App Mobile,0,178.68,2025-04-30,296,FR
+DE-1014,E-commerce,0,175.37,2025-05-16,578,Germany
+ES-1015,App Mobile,0,355.88,2025-05-27,151,Spain
+IT-1016,E-commerce,0,288.61,2025-04-22,973,IT
+NL-1017,App Mobile,0,274.38,2025-05-22,613,netherlands
+IT-1018,E-commerce,0,272.08,2025-05-16,462,Italy
+DE-1019,E-commerce,1,363.76,2025-05-06,43,germany
+FR-102,App Mobile,0,289.57,2025-06-14,692,france
+DE-1020,E-commerce,0,423.57,2025-05-17,120,DE
+ES-1024,App Mobile,0,391.65,2025-04-15,331,spain
+FR-1025,App Mobile,0,89.97,2025-05-29,318,France
+IT-1026,E-commerce,0,218.4,2025-05-19,190,IT
+IT-1028,E-commerce,0,288.52,2025-05-25,475,Italy
+FR-1029,E-commerce,0,229.7,2025-04-17,554,France
+DE-103,E-commerce,0,452.53,2025-06-13,76,germany
+NL-1030,App Mobile,0,261.25,2025-06-16,575,NL
+PT-1031,App Mobile,0,281.67,2025-04-06,896,PT
+NL-1034,App Mobile,0,192.63,2025-05-31,342,NL
+DE-1035,E-commerce,0,215.07,2025-05-05,857,germany
+IT-1036,E-commerce,0,199.55,2025-06-13,793,Italy
+IT-1038,E-commerce,0,224.2,2025-05-04,203,italy
+NL-1039,App Mobile,0,405.63,2025-06-13,460,Netherlands
+ES-104,App Mobile,0,555.25,2025-04-20,373,ES
+FR-1040,App Mobile,1,277.8,2025-05-16,608,FR
+DE-1042,App Mobile,1,45.5,2025-05-13,822,DE
+DE-1044,App Mobile,0,428.76,2025-04-30,268,DE
+DE-1045,E-commerce,0,288.98,2025-05-14,113,Germany
+ES-1047,E-commerce,0,441.52,2025-04-17,161,spain
+IT-1049,App Mobile,0,291.23,2025-04-19,294,Italy
+DE-1050,E-commerce,1,376.24,2025-04-06,122,Germany
+NL-1052,E-commerce,0,189.24,2025-04-24,563,netherlands
+NL-1053,E-commerce,0,300.19,2025-04-14,620,NL
+DE-1054,App Mobile,0,238.03,2025-04-28,493,germany
+DE-1055,App Mobile,0,297.78,2025-05-21,492,germany
+IT-1058,E-commerce,0,339.2,2025-05-26,163,Italy
+FR-1059,App Mobile,1,291.47,2025-05-18,640,FR
+FR-106,E-commerce,0,298.75,2025-04-25,21,france
+DE-1060,App Mobile,1,64.19,2025-05-18,648,DE
+FR-1061,App Mobile,0,242.94,2025-04-05,201,france
+IT-1062,App Mobile,0,268.2,2025-05-05,100,Italy
+IT-1064,E-commerce,0,286.5,2025-04-18,670,IT
+IT-1066,E-commerce,0,415.38,2025-05-14,340,IT
+DE-1067,App Mobile,0,200.77,2025-05-30,176,DE
+NL-1068,E-commerce,0,452.65,2025-05-19,104,NL
+NL-1070,App Mobile,0,246.2,2025-04-30,244,Netherlands
+ES-1071,App Mobile,0,240.94,2025-06-05,338,spain
+FR-1078,E-commerce,0,332.1,2025-06-16,521,france
+DE-1079,App Mobile,0,173.84,2025-06-15,837,germany
+DE-108,E-commerce,0,646.1,2025-05-19,414,germany
+PT-1082,App Mobile,0,298.6,2025-06-04,774,Portugal
+IT-1083,E-commerce,0,313.89,2025-05-15,340,italy
+ES-1084,E-commerce,0,495.83,2025-04-28,477,Spain
+DE-1085,E-commerce,0,200.04,2025-05-14,51,DE
+FR-1086,E-commerce,0,224.18,2025-04-17,561,FR
+FR-1087,App Mobile,0,364.9,2025-05-24,628,FR
+DE-1088,App Mobile,0,340.0,2025-04-13,385,germany
+FR-1093,App Mobile,0,107.55,2025-05-25,474,france
+FR-1095,E-commerce,0,261.45,2025-06-16,109,France
+FR-1096,E-commerce,0,218.98,2025-04-05,867,FR
+DE-1097,App Mobile,0,228.41,2025-06-15,271,Germany
+IT-1098,App Mobile,0,354.25,2025-05-27,564,italy
+DE-1099,E-commerce,1,230.63,2025-05-06,81,Germany
+FR-11,App Mobile,0,327.88,2025-05-20,187,FR
+DE-1100,E-commerce,0,262.86,2025-06-17,837,DE
+ES-1102,App Mobile,1,214.7,2025-05-14,624,Spain
+FR-1103,E-commerce,0,108.13,2025-05-31,393,france
+FR-1106,E-commerce,0,219.78,2025-06-05,35,France
+DE-1108,E-commerce,0,194.29,2025-05-27,58,Germany
+FR-1109,E-commerce,0,78.69,2025-05-27,359,France
+IT-1110,E-commerce,1,390.78,2025-06-06,402,IT
+FR-1111,App Mobile,0,204.48,2025-04-18,687,FR
+FR-1112,App Mobile,0,229.4,2025-04-25,953,france
+DE-1113,App Mobile,0,304.05,2025-04-19,958,Germany
+NL-1115,E-commerce,0,501.76,2025-04-19,872,netherlands
+FR-1116,E-commerce,0,318.59,2025-05-21,640,france
+IT-1117,E-commerce,0,190.25,2025-06-15,660,IT
+IT-1119,E-commerce,0,147.22,2025-05-19,976,Italy
+IT-112,E-commerce,1,445.72,2025-06-06,876,italy
+IT-1122,E-commerce,0,412.92,2025-06-16,609,italy
+FR-1123,E-commerce,0,342.14,2025-05-27,18,FR
+DE-1124,E-commerce,0,162.23,2025-04-29,314,germany
+DE-1127,E-commerce,0,281.04,2025-05-13,144,germany
+FR-1128,App Mobile,0,96.84,2025-05-31,759,FR
+DE-1129,App Mobile,0,125.14,2025-05-21,892,DE
+NL-113,App Mobile,0,448.08,2025-05-25,872,Netherlands
+DE-1130,E-commerce,0,579.95,2025-05-26,385,DE
+FR-1132,App Mobile,0,267.61,2025-05-20,231,france
+IT-1133,E-commerce,0,210.9,2025-04-25,745,IT
+IT-1134,App Mobile,0,324.16,2025-05-28,580,IT
+FR-1135,App Mobile,0,202.84,2025-05-20,946,france
+NL-1136,App Mobile,0,111.97,2025-06-14,460,netherlands
+DE-1137,E-commerce,0,380.37,2025-05-17,505,Germany
+DE-1138,E-commerce,0,375.32,2025-04-27,958,DE
+FR-1139,App Mobile,0,422.16,2025-04-16,21,FR
+ES-114,App Mobile,0,280.43,2025-04-25,903,ES
+FR-1143,E-commerce,1,155.13,2025-04-06,472,france
+PT-1144,E-commerce,0,141.99,2025-05-20,700,Portugal
+NL-1146,E-commerce,0,326.72,2025-05-24,15,Netherlands
+DE-1148,App Mobile,1,448.98,2025-05-13,562,germany
+ES-1149,E-commerce,0,441.5,2025-05-30,948,Spain
+NL-115,App Mobile,0,169.37,2025-05-04,879,Netherlands
+DE-1150,App Mobile,0,607.24,2025-06-05,220,DE
+IT-1152,E-commerce,0,375.47,2025-04-22,157,IT
+IT-1153,App Mobile,1,149.91,2025-05-17,177,IT
+DE-1154,E-commerce,0,323.44,2025-05-05,314,germany
+FR-1155,E-commerce,0,414.54,2025-05-23,843,france
+DE-1156,App Mobile,0,434.04,2025-05-21,963,Germany
+FR-1158,E-commerce,0,232.32,2025-04-29,764,FR
+FR-116,App Mobile,0,195.35,2025-04-05,706,france
+NL-1160,E-commerce,0,326.35,2025-04-19,264,Netherlands
+FR-1161,App Mobile,0,282.2,2025-04-26,152,france
+IT-1162,App Mobile,0,490.12,2025-05-04,830,IT
+FR-1165,E-commerce,0,154.08,2025-04-22,664,France
+DE-1166,E-commerce,0,284.19,2025-05-17,243,Germany
+DE-1168,E-commerce,0,296.37,2025-06-13,492,germany
+DE-1169,E-commerce,0,122.99,2025-05-16,490,germany
+FR-1170,App Mobile,0,214.32,2025-06-04,547,FR
+NL-1172,E-commerce,0,387.04,2025-05-31,63,netherlands
+ES-1173,App Mobile,1,216.76,2025-05-16,689,spain
+FR-1175,E-commerce,0,71.92,2025-05-05,664,France
+DE-1177,E-commerce,0,405.31,2025-04-27,960,germany
+DE-1178,App Mobile,0,286.19,2025-04-15,274,DE
+IT-1179,E-commerce,0,250.58,2025-04-29,462,IT
+IT-118,E-commerce,0,788.58,2025-05-18,92,italy
+ES-1180,E-commerce,0,273.14,2025-05-26,777,ES
+NL-1182,E-commerce,0,189.9,2025-06-16,936,NL
+IT-1183,App Mobile,0,464.44,2025-04-18,792,IT
+IT-1184,App Mobile,0,126.28,2025-04-25,752,Italy
+NL-1185,E-commerce,0,207.36,2025-05-05,15,Netherlands
+ES-1186,E-commerce,0,521.99,2025-04-17,749,ES
+FR-1187,E-commerce,0,161.42,2025-04-14,365,france
+DE-1189,E-commerce,0,443.88,2025-04-24,131,Germany
+PT-1192,App Mobile,0,3022.3,2025-05-22,702,Portugal
+NL-1193,E-commerce,0,388.54,2025-04-15,864,netherlands
+NL-1194,E-commerce,0,419.1,2025-05-13,816,netherlands
+DE-1195,App Mobile,0,137.94,2025-04-22,403,DE
+DE-1196,App Mobile,0,164.14,2025-05-23,160,Germany
+DE-1197,E-commerce,0,384.56,2025-05-22,390,Germany
+ES-1198,E-commerce,1,169.7,2025-05-06,914,ES
+ES-1199,E-commerce,0,342.57,2025-06-14,922,Spain
+DE-120,E-commerce,1,431.8,2025-06-06,999,germany
+IT-1200,App Mobile,1,206.5,2025-05-16,171,italy
+PT-1201,App Mobile,0,252.86,2025-04-17,625,Portugal
+DE-1205,E-commerce,0,311.61,2025-05-28,88,Germany
+ES-1206,E-commerce,0,310.54,2025-04-19,701,spain
+ES-1207,App Mobile,0,278.18,2025-04-05,907,Spain
+FR-1208,E-commerce,1,454.1,2025-06-06,388,france
+DE-1209,E-commerce,0,208.57,2025-04-20,90,germany
+FR-121,App Mobile,0,566.29,2025-04-25,867,france
+NL-1210,App Mobile,0,543.2,2025-06-17,864,netherlands
+IT-1211,App Mobile,0,317.66,2025-05-23,346,italy
+DE-1213,E-commerce,0,365.27,2025-05-16,155,DE
+DE-1214,E-commerce,1,301.3,2025-06-06,280,Germany
+FR-1215,App Mobile,0,562.51,2025-04-22,638,france
+ES-1216,App Mobile,0,105.22,2025-04-27,915,Spain
+DE-1218,App Mobile,0,293.92,2025-04-23,497,germany
+IT-1219,E-commerce,0,274.11,2025-05-14,234,italy
+FR-1220,E-commerce,0,299.77,2025-05-21,150,france
+IT-1223,App Mobile,1,70.56,2025-05-17,380,italy
+DE-1224,E-commerce,0,172.89,2025-04-19,461,DE
+DE-1225,App Mobile,0,232.25,2025-04-27,204,Germany
+FR-1226,App Mobile,1,164.4,2025-05-18,36,France
+PT-1227,App Mobile,0,241.04,2025-04-13,780,Portugal
+IT-1229,App Mobile,0,343.99,2025-05-29,503,italy
+IT-123,App Mobile,0,410.04,2025-05-21,769,italy
+PT-1230,E-commerce,0,220.21,2025-05-19,954,portugal
+IT-1231,App Mobile,0,535.45,2025-05-04,346,Italy
+ES-1234,App Mobile,0,338.34,2025-04-23,641,Spain
+IT-1236,E-commerce,0,428.95,2025-06-05,792,Italy
+DE-1237,E-commerce,0,400.86,2025-04-28,305,DE
+FR-1239,E-commerce,0,385.12,2025-05-28,253,France
+ES-124,E-commerce,0,245.7,2025-04-19,99,ES
+FR-1243,E-commerce,0,138.93,2025-05-19,263,France
+NL-1244,E-commerce,0,426.38,2025-05-31,816,netherlands
+DE-1245,E-commerce,0,261.02,2025-05-17,348,DE
+NL-1247,E-commerce,0,540.15,2025-04-21,563,NL
+IT-1248,App Mobile,0,190.53,2025-04-13,898,Italy
+ES-1249,E-commerce,0,139.01,2025-06-13,467,ES
+DE-125,App Mobile,0,391.31,2025-05-06,601,Germany
+IT-1251,App Mobile,0,202.77,2025-04-30,662,italy
+NL-1252,E-commerce,0,429.24,2025-04-29,986,NL
+ES-1253,E-commerce,0,289.93,2025-04-24,611,Spain
+FR-1254,App Mobile,0,492.02,2025-05-26,103,FR
+DE-1255,App Mobile,0,104.81,2025-04-16,464,Germany
+FR-1256,App Mobile,0,211.32,2025-04-16,393,france
+FR-1257,E-commerce,0,420.75,2025-05-27,510,FR
+ES-1258,App Mobile,0,436.16,2025-05-22,5,Spain
+ES-1259,E-commerce,0,296.24,2025-04-15,762,ES
+DE-126,E-commerce,0,484.47,2025-05-15,476,germany
+IT-1262,E-commerce,0,345.74,2025-04-28,456,italy
+IT-1263,App Mobile,0,230.86,2025-04-22,974,IT
+NL-1265,E-commerce,0,447.76,2025-05-21,116,NL
+NL-1268,E-commerce,0,313.3,2025-05-18,767,NL
+NL-1269,App Mobile,0,159.58,2025-06-14,930,NL
+DE-127,App Mobile,0,566.98,2025-04-13,490,DE
+FR-1270,App Mobile,0,295.25,2025-04-24,459,france
+ES-1271,E-commerce,0,314.71,2025-05-04,633,ES
+IT-1272,App Mobile,0,188.26,2025-04-15,254,IT
+FR-1273,App Mobile,0,286.62,2025-05-24,510,France
+IT-1275,App Mobile,0,323.54,2025-04-04,655,IT
+DE-1276,App Mobile,0,309.58,2025-06-05,704,germany
+IT-1277,App Mobile,0,440.86,2025-06-05,277,Italy
+DE-128,E-commerce,0,282.19,2025-04-19,115,Germany
+FR-1280,App Mobile,0,168.2,2025-04-23,647,France
+ES-1281,App Mobile,0,140.28,2025-04-06,772,Spain
+DE-1285,App Mobile,0,395.24,2025-05-31,581,Germany
+FR-1286,E-commerce,1,213.94,2025-06-06,628,France
+DE-129,App Mobile,0,442.47,2025-05-26,81,DE
+ES-1290,E-commerce,0,152.54,2025-04-22,99,Spain
+PT-1291,E-commerce,0,101.64,2025-05-19,615,Portugal
+ES-1292,E-commerce,0,390.07,2025-04-21,338,ES
+IT-1294,E-commerce,0,249.28,2025-04-22,407,Italy
+DE-1295,E-commerce,0,275.39,2025-05-17,144,germany
+ES-1296,App Mobile,1,108.54,2025-05-18,331,Spain
+DE-1297,App Mobile,0,167.61,2025-04-29,14,germany
+DE-1298,E-commerce,0,115.34,2025-05-16,993,Germany
+FR-13,App Mobile,0,696.62,2025-04-16,253,france
+PT-130,App Mobile,0,553.92,2025-04-05,962,PT
+DE-1300,E-commerce,0,303.0,2025-04-15,147,DE
+DE-1303,E-commerce,0,287.88,2025-05-21,22,germany
+DE-1304,App Mobile,0,88.35,2025-04-14,839,germany
+FR-1306,E-commerce,0,334.56,2025-06-15,188,France
+NL-1308,E-commerce,0,254.26,2025-05-14,872,NL
+DE-1309,App Mobile,0,299.49,2025-04-19,131,germany
+NL-131,E-commerce,0,625.66,2025-04-22,816,NL
+PT-1310,E-commerce,0,504.88,2025-05-22,798,PT
+DE-1311,E-commerce,0,268.73,2025-05-31,958,Germany
+ES-1312,App Mobile,0,429.04,2025-04-28,841,spain
+DE-1313,App Mobile,0,190.84,2025-05-24,601,Germany
+PT-1314,App Mobile,0,234.64,2025-04-06,776,portugal
+NL-1315,App Mobile,0,409.24,2025-04-26,344,netherlands
+NL-1316,App Mobile,1,134.98,2025-05-15,392,netherlands
+FR-1317,E-commerce,0,288.56,2025-06-04,285,FR
+IT-1318,E-commerce,0,323.18,2025-05-18,265,italy
+DE-132,App Mobile,0,395.09,2025-04-20,839,Germany
+ES-1320,E-commerce,0,91.9,2025-04-17,730,ES
+IT-1321,E-commerce,0,455.53,2025-06-14,217,Italy
+IT-1322,E-commerce,0,269.84,2025-05-27,27,italy
+IT-1326,E-commerce,0,310.98,2025-05-18,883,Italy
+PT-1327,E-commerce,0,113.56,2025-04-19,770,PT
+FR-1328,E-commerce,0,143.15,2025-06-16,201,France
+ES-1329,App Mobile,0,94.92,2025-04-27,28,Spain
+ES-133,App Mobile,0,450.74,2025-06-14,570,spain
+IT-1330,App Mobile,0,343.78,2025-04-04,277,italy
+FR-1331,App Mobile,0,257.03,2025-04-26,447,France
+IT-1332,E-commerce,0,161.81,2025-05-13,783,IT
+NL-1333,App Mobile,1,115.4,2025-05-14,215,NL
+DE-1335,App Mobile,0,258.46,2025-04-24,999,Germany
+ES-1336,E-commerce,0,184.47,2025-04-04,557,ES
+IT-1337,App Mobile,1,352.02,2025-05-18,943,IT
+NL-1339,App Mobile,0,121.01,2025-04-23,796,netherlands
+ES-1342,E-commerce,0,469.26,2025-05-23,990,spain
+NL-1343,E-commerce,0,352.5,2025-05-28,767,NL
+DE-1344,App Mobile,0,179.43,2025-04-21,857,germany
+FR-1348,E-commerce,0,451.03,2025-05-20,473,France
+NL-1349,E-commerce,0,173.5,2025-05-27,37,NL
+FR-135,E-commerce,0,702.11,2025-05-15,607,France
+IT-1352,App Mobile,0,419.08,2025-05-22,574,IT
+ES-136,E-commerce,0,357.39,2025-06-14,206,ES
+DE-138,E-commerce,0,406.4,2025-06-14,106,germany
+FR-139,App Mobile,0,631.08,2025-05-21,473,France
+PT-141,E-commerce,0,617.09,2025-06-15,861,portugal
+ES-142,E-commerce,0,410.77,2025-05-25,151,Spain
+PT-143,E-commerce,0,324.41,2025-06-16,956,portugal
+DE-144,App Mobile,0,296.59,2025-04-20,961,Germany
+FR-145,E-commerce,0,391.58,2025-05-20,135,France
+DE-146,E-commerce,0,310.87,2025-04-15,420,germany
+FR-147,E-commerce,0,336.73,2025-05-17,386,France
+IT-15,E-commerce,0,421.64,2025-05-20,33,italy
+FR-151,E-commerce,0,396.18,2025-04-14,818,france
+FR-152,App Mobile,0,422.84,2025-04-05,759,france
+FR-154,E-commerce,0,448.34,2025-04-22,551,FR
+DE-155,E-commerce,1,336.34,2025-04-06,516,DE
+IT-156,E-commerce,0,364.16,2025-05-24,819,Italy
+DE-158,E-commerce,0,393.98,2025-04-13,813,Germany
+FR-160,App Mobile,0,663.69,2025-04-25,1,FR
+DE-161,App Mobile,0,608.67,2025-04-26,703,Germany
+FR-163,App Mobile,0,622.18,2025-05-20,283,France
+DE-164,App Mobile,0,604.53,2025-04-17,442,Germany
+NL-165,E-commerce,0,308.72,2025-05-28,748,netherlands
+DE-166,E-commerce,0,517.88,2025-06-05,354,Germany
+IT-167,E-commerce,0,632.5,2025-05-18,277,italy
+PT-168,App Mobile,0,482.74,2025-04-04,896,PT
+DE-17,E-commerce,0,515.1,2025-04-29,516,germany
+NL-171,E-commerce,0,564.17,2025-04-15,158,netherlands
+ES-172,App Mobile,1,178.2,2025-05-13,398,spain
+FR-173,E-commerce,0,535.45,2025-05-15,279,France
+DE-175,App Mobile,0,339.82,2025-04-18,113,Germany
+NL-179,App Mobile,0,525.72,2025-05-29,663,netherlands
+ES-180,App Mobile,0,190.08,2025-06-13,641,spain
+IT-181,App Mobile,0,659.3,2025-05-06,252,italy
+NL-183,E-commerce,0,161.43,2025-05-16,871,NL
+ES-184,E-commerce,0,403.3,2025-04-18,192,spain
+ES-188,E-commerce,0,530.73,2025-04-05,192,Spain
+NL-189,E-commerce,0,371.17,2025-04-25,684,NL
+NL-190,App Mobile,0,291.5,2025-06-17,247,netherlands
+NL-191,App Mobile,0,381.4,2025-05-23,367,Netherlands
+IT-193,E-commerce,0,433.24,2025-05-18,92,IT
+DE-195,App Mobile,0,-699.78,2025-05-20,220,DE
+DE-198,App Mobile,0,458.63,2025-04-23,302,DE
+NL-199,App Mobile,1,155.23,2025-05-19,929,NL
+DE-2,E-commerce,0,357.54,2025-05-16,41,DE
+FR-20,E-commerce,0,665.8,2025-04-04,638,FR
+DE-200,App Mobile,0,317.71,2025-04-05,162,Germany
+IT-201,App Mobile,0,492.32,2025-05-27,675,IT
+FR-202,App Mobile,0,516.82,2025-05-28,972,France
+IT-204,E-commerce,0,206.76,2025-06-05,163,italy
+ES-207,E-commerce,0,438.51,2025-05-15,884,spain
+DE-209,App Mobile,0,343.05,2025-05-31,436,Germany
+ES-21,E-commerce,0,538.23,2025-06-14,685,ES
+NL-210,E-commerce,0,598.88,2025-05-22,392,Netherlands
+PT-211,E-commerce,1,490.53,2025-05-06,676,PT
+DE-212,App Mobile,0,300.97,2025-05-05,302,Germany
+NL-214,App Mobile,0,583.42,2025-04-28,572,NL
+IT-215,E-commerce,1,399.74,2025-04-06,691,IT
+IT-216,E-commerce,0,238.58,2025-05-22,968,italy
+ES-217,E-commerce,0,410.95,2025-06-04,646,Spain
+IT-220,E-commerce,0,525.55,2025-04-18,566,italy
+DE-221,E-commerce,0,466.16,2025-05-16,107,DE
+IT-222,App Mobile,0,349.66,2025-05-21,288,italy
+ES-224,App Mobile,0,607.94,2025-04-25,773,ES
+IT-225,App Mobile,0,540.02,2025-05-20,806,IT
+NL-226,App Mobile,0,401.31,2025-04-23,575,NL
+NL-229,E-commerce,0,543.17,2025-06-16,699,Netherlands
+PT-23,App Mobile,0,457.32,2025-04-28,987,PT
+ES-230,App Mobile,0,404.19,2025-04-21,428,spain
+FR-231,E-commerce,0,385.35,2025-04-24,453,FR
+FR-232,App Mobile,0,561.55,2025-05-30,285,france
+FR-233,E-commerce,0,374.24,2025-04-28,499,france
+DE-234,App Mobile,0,533.21,2025-05-20,198,germany
+DE-235,E-commerce,0,266.42,2025-06-04,411,germany
+FR-237,E-commerce,0,465.41,2025-05-16,167,france
+DE-238,E-commerce,0,378.22,2025-05-19,958,germany
+FR-239,E-commerce,0,710.55,2025-04-20,2,france
+ES-24,App Mobile,1,173.28,2025-05-13,750,ES
+DE-240,App Mobile,0,757.22,2025-05-31,270,germany
+ES-241,App Mobile,0,411.47,2025-06-06,725,spain
+DE-242,App Mobile,0,593.44,2025-05-23,106,germany
+DE-245,E-commerce,0,221.6,2025-05-29,673,DE
+DE-247,App Mobile,0,288.21,2025-04-04,672,DE
+ES-248,App Mobile,0,478.04,2025-04-23,99,spain
+NL-250,App Mobile,0,581.85,2025-06-16,49,Netherlands
+DE-251,E-commerce,1,318.34,2025-04-06,996,DE
+DE-252,App Mobile,0,336.11,2025-04-18,836,Germany
+FR-253,App Mobile,0,422.76,2025-04-27,233,France
+NL-255,E-commerce,0,187.46,2025-04-30,509,Netherlands
+PT-256,E-commerce,0,432.34,2025-05-21,881,Portugal
+FR-258,E-commerce,0,439.49,2025-05-29,94,FR
+DE-259,App Mobile,1,296.87,2025-05-19,48,DE
+DE-260,E-commerce,0,528.34,2025-05-14,41,germany
+ES-262,App Mobile,0,480.78,2025-04-29,28,ES
+DE-264,App Mobile,0,253.51,2025-05-31,131,DE
+IT-265,App Mobile,0,307.83,2025-05-26,346,IT
+DE-269,App Mobile,0,503.93,2025-05-24,298,Germany
+IT-272,App Mobile,0,487.95,2025-05-05,718,italy
+PT-273,App Mobile,0,-489.56,2025-06-16,682,Portugal
+DE-274,E-commerce,0,157.15,2025-04-19,349,Germany
+DE-275,App Mobile,0,391.32,2025-04-18,58,DE
+DE-276,App Mobile,0,395.94,2025-06-04,420,Germany
+PT-277,E-commerce,0,534.45,2025-05-26,791,PT
+IT-278,App Mobile,0,295.83,2025-06-13,626,italy
+PT-279,E-commerce,0,330.38,2025-06-16,852,Portugal
+ES-281,App Mobile,1,375.37,2025-05-17,730,spain
+DE-282,App Mobile,0,391.74,2025-05-26,736,DE
+PT-284,App Mobile,0,362.54,2025-04-29,880,PT
+FR-285,App Mobile,0,448.77,2025-05-29,415,FR
+FR-286,App Mobile,1,348.33,2025-05-18,184,France
+IT-287,E-commerce,0,578.5,2025-05-15,556,italy
+ES-288,App Mobile,0,732.73,2025-04-05,750,Spain
+IT-289,App Mobile,1,268.8,2025-05-18,190,Italy
+FR-29,App Mobile,0,445.12,2025-04-25,208,FR
+DE-291,E-commerce,0,696.69,2025-04-30,379,DE
+FR-292,App Mobile,0,317.3,2025-04-30,103,france
+ES-293,E-commerce,0,391.81,2025-04-05,373,Spain
+DE-294,E-commerce,0,290.39,2025-06-17,489,germany
+ES-295,App Mobile,1,408.14,2025-05-13,720,Spain
+IT-297,App Mobile,1,275.27,2025-05-17,235,Italy
+FR-298,E-commerce,0,376.14,2025-05-18,401,France
+DE-299,App Mobile,1,489.11,2025-05-13,403,DE
+DE-3,App Mobile,0,337.56,2025-04-22,139,DE
+NL-301,App Mobile,1,241.1,2025-05-17,825,NL
+NL-303,App Mobile,0,635.02,2025-05-06,396,Netherlands
+DE-305,E-commerce,0,541.03,2025-04-28,878,DE
+IT-306,E-commerce,0,257.31,2025-04-26,566,italy
+NL-307,E-commerce,0,332.0,2025-05-21,567,netherlands
+FR-309,App Mobile,0,414.75,2025-05-25,365,FR
+PT-31,App Mobile,0,292.78,2025-05-20,776,portugal
+DE-310,E-commerce,0,503.83,2025-04-18,726,germany
+ES-312,E-commerce,0,509.07,2025-05-31,72,ES
+DE-313,App Mobile,0,712.86,2025-06-06,271,germany
+ES-314,E-commerce,0,446.09,2025-05-18,377,spain
+DE-318,E-commerce,0,376.3,2025-04-17,681,Germany
+NL-319,App Mobile,0,431.38,2025-05-31,728,netherlands
+IT-32,App Mobile,0,540.69,2025-04-21,982,italy
+NL-321,App Mobile,0,465.62,2025-05-31,779,Netherlands
+DE-323,E-commerce,0,265.56,2025-06-05,512,DE
+FR-326,E-commerce,0,666.64,2025-04-19,472,France
+FR-328,E-commerce,0,218.19,2025-05-13,316,France
+FR-329,E-commerce,0,605.24,2025-04-04,388,France
+DE-33,E-commerce,0,227.32,2025-04-23,805,DE
+ES-330,E-commerce,0,558.38,2025-04-24,920,Spain
+IT-331,App Mobile,0,263.87,2025-06-05,100,IT
+FR-332,App Mobile,0,380.25,2025-05-24,932,france
+IT-333,E-commerce,0,427.6,2025-05-22,842,italy
+IT-334,App Mobile,0,496.23,2025-05-29,675,IT
+PT-335,App Mobile,0,747.5,2025-04-15,642,Portugal
+FR-336,E-commerce,0,536.47,2025-06-17,790,FR
+FR-337,App Mobile,0,467.38,2025-05-24,873,France
+IT-338,E-commerce,0,410.86,2025-04-21,670,Italy
+NL-341,App Mobile,1,449.94,2025-05-13,816,netherlands
+FR-343,App Mobile,0,587.46,2025-06-17,170,France
+NL-344,App Mobile,0,291.52,2025-06-14,485,netherlands
+NL-345,E-commerce,0,648.04,2025-04-14,929,netherlands
+FR-346,App Mobile,0,318.61,2025-05-26,231,france
+IT-347,E-commerce,0,402.53,2025-05-18,769,italy
+PT-348,E-commerce,0,654.98,2025-05-30,776,Portugal
+PT-349,App Mobile,0,523.43,2025-06-15,854,PT
+IT-35,E-commerce,0,433.96,2025-04-27,574,italy
+FR-350,E-commerce,0,529.4,2025-04-19,129,FR
+DE-351,E-commerce,0,494.28,2025-05-27,840,Germany
+FR-352,E-commerce,0,698.65,2025-05-04,231,FR
+DE-354,App Mobile,0,342.09,2025-04-04,545,germany
+DE-356,App Mobile,1,344.13,2025-05-13,59,Germany
+IT-357,E-commerce,0,548.56,2025-04-26,519,IT
+DE-358,App Mobile,0,603.85,2025-04-06,587,DE
+IT-359,App Mobile,0,590.5,2025-04-18,503,italy
+IT-36,E-commerce,0,380.74,2025-05-28,475,IT
+ES-360,App Mobile,0,568.53,2025-04-24,981,spain
+NL-361,E-commerce,0,684.03,2025-05-05,289,NL
+PT-362,App Mobile,0,514.28,2025-05-25,861,portugal
+IT-369,E-commerce,0,257.37,2025-04-29,832,italy
+ES-37,App Mobile,0,715.38,2025-04-22,720,spain
+FR-370,App Mobile,0,186.88,2025-04-21,225,france
+IT-371,E-commerce,0,459.42,2025-04-20,470,IT
+IT-375,E-commerce,0,420.74,2025-04-14,819,Italy
+DE-376,App Mobile,1,195.76,2025-05-19,497,DE
+DE-377,E-commerce,0,346.01,2025-05-14,823,DE
+IT-378,App Mobile,0,354.21,2025-04-17,943,italy
+FR-38,E-commerce,0,440.7,2025-05-26,484,FR
+ES-382,E-commerce,0,692.47,2025-04-26,99,Spain
+FR-383,App Mobile,0,504.66,2025-04-15,451,FR
+NL-384,E-commerce,0,453.66,2025-04-27,242,NL
+IT-386,App Mobile,0,323.99,2025-04-21,445,Italy
+FR-387,E-commerce,0,362.98,2025-04-20,2,FR
+DE-389,E-commerce,0,265.11,2025-04-18,457,germany
+PT-39,E-commerce,0,628.12,2025-05-14,955,Portugal
+IT-390,App Mobile,0,630.23,2025-05-20,564,IT
+IT-391,E-commerce,0,718.22,2025-04-30,564,italy
+NL-392,E-commerce,0,202.88,2025-05-21,975,Netherlands
+NL-394,E-commerce,0,456.05,2025-06-15,435,Netherlands
+IT-396,E-commerce,0,567.23,2025-05-28,612,italy
+FR-397,E-commerce,0,458.22,2025-04-29,17,France
+PT-399,App Mobile,0,392.48,2025-04-05,700,Portugal
+IT-40,App Mobile,1,233.35,2025-05-13,96,Italy
+NL-400,App Mobile,0,487.91,2025-04-21,928,Netherlands
+FR-401,E-commerce,0,523.89,2025-04-15,397,France
+FR-402,E-commerce,0,394.47,2025-05-13,301,france
+DE-403,App Mobile,0,336.24,2025-04-27,476,Germany
+NL-404,E-commerce,0,225.88,2025-05-26,929,NL
+IT-405,E-commerce,0,455.67,2025-05-20,657,Italy
+PT-406,E-commerce,0,566.89,2025-05-14,677,Portugal
+DE-407,App Mobile,0,560.0,2025-04-21,12,DE
+NL-408,E-commerce,0,448.55,2025-04-05,202,Netherlands
+NL-41,E-commerce,0,481.09,2025-04-14,367,NL
+ES-410,E-commerce,0,816.6,2025-05-23,419,Spain
+DE-411,App Mobile,1,393.19,2025-05-13,207,DE
+DE-413,E-commerce,0,669.28,2025-06-17,69,Germany
+DE-414,App Mobile,0,492.17,2025-06-14,404,germany
+IT-416,App Mobile,0,357.92,2025-04-06,336,italy
+DE-418,App Mobile,0,211.8,2025-05-06,384,germany
+NL-419,E-commerce,0,673.59,2025-05-22,148,netherlands
+DE-42,App Mobile,0,-186.91,2025-05-31,191,DE
+FR-420,App Mobile,0,503.76,2025-06-16,828,France
+FR-421,E-commerce,0,310.51,2025-05-19,230,FR
+PT-423,App Mobile,1,238.34,2025-05-13,729,Portugal
+PT-424,App Mobile,0,397.38,2025-05-22,956,portugal
+FR-425,E-commerce,0,341.94,2025-04-16,124,France
+ES-426,E-commerce,0,605.81,2025-06-15,38,Spain
+FR-427,App Mobile,0,525.37,2025-06-17,401,France
+IT-428,App Mobile,1,70.69,2025-05-14,556,IT
+FR-429,App Mobile,0,554.35,2025-06-14,978,france
+IT-43,App Mobile,0,478.95,2025-04-15,217,Italy
+IT-430,E-commerce,0,346.27,2025-04-18,654,Italy
+DE-432,E-commerce,0,432.21,2025-04-20,432,germany
+FR-433,App Mobile,0,647.8,2025-05-30,608,FR
+NL-435,App Mobile,0,300.68,2025-04-27,613,NL
+FR-436,App Mobile,0,345.59,2025-04-28,481,France
+FR-44,E-commerce,0,373.27,2025-05-14,957,France
+PT-440,App Mobile,1,358.65,2025-05-15,698,portugal
+DE-441,E-commerce,0,239.84,2025-04-28,858,germany
+DE-442,E-commerce,1,339.49,2025-06-06,408,Germany
+NL-444,E-commerce,0,487.51,2025-05-19,734,netherlands
+PT-445,E-commerce,1,195.86,2025-05-06,852,PT
+PT-447,App Mobile,0,433.9,2025-04-19,727,PT
+NL-448,App Mobile,0,319.3,2025-04-29,143,netherlands
+ES-449,E-commerce,0,274.72,2025-05-23,749,Spain
+FR-450,App Mobile,0,540.03,2025-04-30,640,France
+IT-451,E-commerce,0,485.52,2025-04-15,997,Italy
+ES-452,App Mobile,0,341.2,2025-04-25,605,Spain
+NL-458,App Mobile,0,670.95,2025-05-20,613,NL
+FR-46,App Mobile,0,133.43,2025-06-14,386,France
+FR-461,E-commerce,0,439.03,2025-05-27,607,france
+DE-463,App Mobile,0,418.95,2025-06-13,497,DE
+IT-465,E-commerce,0,572.22,2025-06-14,783,IT
+NL-466,E-commerce,0,573.78,2025-04-17,538,NL
+DE-467,App Mobile,0,425.23,2025-04-20,220,Germany
+FR-468,App Mobile,0,334.88,2025-05-05,273,France
+DE-469,E-commerce,0,316.23,2025-05-25,180,Germany
+FR-470,App Mobile,0,526.46,2025-04-30,664,france
+ES-473,E-commerce,0,270.72,2025-04-30,820,Spain
+IT-474,App Mobile,0,549.22,2025-04-14,190,IT
+DE-475,App Mobile,0,513.94,2025-04-28,831,Germany
+FR-476,App Mobile,1,302.38,2025-05-17,511,France
+FR-478,App Mobile,0,162.44,2025-04-14,957,france
+DE-479,E-commerce,0,413.62,2025-05-20,908,Germany
+NL-480,E-commerce,0,821.72,2025-04-24,455,NL
+NL-482,App Mobile,0,306.9,2025-05-24,272,netherlands
+FR-483,E-commerce,1,358.54,2025-06-06,547,France
+DE-484,App Mobile,0,209.26,2025-04-26,218,Germany
+DE-485,E-commerce,0,225.79,2025-06-13,822,Germany
+ES-486,App Mobile,0,291.32,2025-04-19,241,Spain
+PT-488,E-commerce,0,479.79,2025-05-15,682,PT
+NL-489,E-commerce,0,378.07,2025-06-13,693,Netherlands
+PT-490,App Mobile,0,454.26,2025-05-24,854,PT
+NL-491,E-commerce,0,560.98,2025-05-23,699,NL
+ES-495,E-commerce,0,780.29,2025-04-29,762,ES
+PT-497,App Mobile,1,322.48,2025-05-13,588,PT
+ES-498,E-commerce,0,509.91,2025-05-25,9,spain
+DE-500,E-commerce,0,680.33,2025-04-26,348,germany
+FR-503,E-commerce,0,297.86,2025-05-22,341,france
+DE-504,App Mobile,0,458.7,2025-06-04,795,germany
+FR-505,App Mobile,0,492.34,2025-05-23,36,FR
+DE-506,E-commerce,0,570.95,2025-04-23,963,Germany
+NL-509,E-commerce,0,253.64,2025-05-15,663,netherlands
+DE-510,E-commerce,0,227.01,2025-04-30,892,Germany
+ES-511,E-commerce,0,515.44,2025-04-04,754,ES
+PT-512,App Mobile,0,412.13,2025-04-06,682,Portugal
+FR-513,E-commerce,0,441.25,2025-06-14,474,France
+FR-514,App Mobile,0,599.54,2025-06-17,397,FR
+DE-515,E-commerce,0,627.9,2025-05-20,189,Germany
+NL-516,E-commerce,0,390.32,2025-05-04,617,NL
+IT-517,E-commerce,0,254.46,2025-06-05,525,italy
+NL-518,E-commerce,0,544.28,2025-05-04,455,netherlands
+DE-52,E-commerce,0,646.63,2025-05-21,438,Germany
+FR-521,App Mobile,0,538.0,2025-05-04,851,france
+DE-524,App Mobile,1,284.65,2025-05-15,144,Germany
+DE-525,App Mobile,0,380.43,2025-05-21,908,Germany
+DE-527,E-commerce,0,420.5,2025-05-28,160,DE
+IT-528,App Mobile,1,333.83,2025-05-17,921,italy
+IT-529,App Mobile,0,341.18,2025-04-14,566,IT
+ES-53,E-commerce,0,324.33,2025-04-14,885,spain
+ES-530,App Mobile,0,547.16,2025-04-19,398,ES
+DE-531,App Mobile,0,417.74,2025-05-30,900,Germany
+DE-534,App Mobile,0,385.1,2025-04-22,652,DE
+DE-535,App Mobile,0,568.88,2025-05-31,174,Germany
+DE-536,App Mobile,0,390.51,2025-06-05,47,DE
+FR-537,E-commerce,0,254.97,2025-04-30,897,FR
+PT-538,App Mobile,0,502.9,2025-06-05,739,portugal
+NL-539,E-commerce,0,506.48,2025-04-26,422,netherlands
+NL-54,App Mobile,0,416.34,2025-05-28,517,NL
+FR-541,App Mobile,0,505.76,2025-04-27,877,france
+PT-542,E-commerce,0,382.14,2025-05-24,771,Portugal
+PT-543,E-commerce,0,403.83,2025-04-26,896,PT
+ES-545,E-commerce,0,391.91,2025-04-05,99,ES
+IT-546,E-commerce,0,184.6,2025-04-28,787,Italy
+ES-548,App Mobile,0,635.8,2025-04-25,916,ES
+FR-55,E-commerce,0,355.12,2025-04-17,511,FR
+IT-550,E-commerce,0,335.22,2025-05-16,190,Italy
+ES-551,E-commerce,0,274.53,2025-05-31,398,Spain
+IT-552,App Mobile,1,377.54,2025-05-15,54,Italy
+IT-553,App Mobile,1,276.39,2025-05-18,804,italy
+PT-554,E-commerce,0,322.94,2025-06-13,861,PT
+IT-555,App Mobile,0,376.87,2025-05-25,997,IT
+FR-556,E-commerce,0,553.83,2025-04-30,751,FR
+NL-557,App Mobile,0,423.11,2025-04-25,194,netherlands
+IT-558,App Mobile,1,191.33,2025-05-17,525,italy
+ES-559,E-commerce,1,393.0,2025-04-06,192,Spain
+DE-56,App Mobile,0,337.98,2025-05-29,223,Germany
+PT-561,E-commerce,1,416.29,2025-06-06,829,PT
+FR-562,App Mobile,0,552.4,2025-04-18,225,France
+FR-564,E-commerce,0,351.54,2025-05-28,511,France
+FR-565,E-commerce,0,448.32,2025-05-04,751,FR
+DE-566,E-commerce,0,382.77,2025-04-21,325,DE
+NL-567,E-commerce,0,511.12,2025-05-17,686,NL
+DE-571,App Mobile,0,859.38,2025-05-23,191,DE
+FR-572,App Mobile,0,709.31,2025-04-22,506,France
+ES-575,App Mobile,0,400.38,2025-04-27,5,Spain
+FR-576,E-commerce,0,537.95,2025-06-13,20,france
+DE-577,E-commerce,0,161.54,2025-05-27,958,Germany
+IT-578,App Mobile,0,357.46,2025-04-25,849,italy
+PT-580,App Mobile,0,422.78,2025-05-31,833,PT
+DE-581,E-commerce,0,516.66,2025-05-31,125,germany
+IT-582,E-commerce,0,308.11,2025-06-04,357,IT
+IT-588,App Mobile,1,178.9,2025-05-14,898,italy
+DE-589,App Mobile,0,372.08,2025-06-17,160,Germany
+IT-59,E-commerce,0,435.92,2025-05-14,787,italy
+DE-590,E-commerce,0,324.12,2025-04-13,512,germany
+IT-591,E-commerce,0,616.58,2025-05-23,525,italy
+NL-592,E-commerce,0,-134.93,2025-05-17,906,netherlands
+PT-593,App Mobile,0,303.48,2025-06-16,758,PT
+DE-594,App Mobile,0,493.31,2025-05-30,69,germany
+FR-597,App Mobile,0,760.4,2025-04-18,132,France
+PT-6,E-commerce,0,416.43,2025-06-14,659,PT
+FR-601,E-commerce,0,542.92,2025-05-31,387,FR
+IT-602,E-commerce,0,447.92,2025-04-28,284,Italy
+FR-603,App Mobile,0,367.01,2025-05-31,182,france
+ES-604,E-commerce,0,499.56,2025-05-26,338,ES
+IT-605,App Mobile,0,411.94,2025-06-04,118,IT
+FR-607,App Mobile,0,395.28,2025-04-30,785,France
+FR-609,App Mobile,0,340.38,2025-05-22,946,FR
+DE-61,App Mobile,0,370.24,2025-05-26,444,DE
+NL-610,E-commerce,0,435.62,2025-05-30,504,Netherlands
+DE-612,App Mobile,0,588.12,2025-05-25,488,DE
+FR-613,E-commerce,0,562.46,2025-06-15,112,France
+NL-614,App Mobile,0,498.27,2025-05-29,761,netherlands
+FR-615,App Mobile,1,207.29,2025-05-16,23,France
+ES-616,E-commerce,0,243.91,2025-04-23,838,spain
+ES-617,E-commerce,0,566.22,2025-05-18,62,ES
+PT-618,App Mobile,0,227.85,2025-04-19,653,PT
+FR-619,App Mobile,1,232.25,2025-05-15,895,FR
+ES-620,E-commerce,0,426.3,2025-05-20,65,Spain
+NL-621,App Mobile,1,263.25,2025-05-15,86,Netherlands
+IT-622,E-commerce,0,194.57,2025-04-26,217,italy
+IT-623,E-commerce,0,284.26,2025-04-14,943,IT
+DE-624,App Mobile,1,383.49,2025-05-13,223,germany
+DE-626,App Mobile,0,147.29,2025-04-24,376,germany
+IT-627,App Mobile,0,467.58,2025-05-23,973,italy
+NL-629,App Mobile,0,400.35,2025-05-26,186,netherlands
+FR-63,App Mobile,0,431.64,2025-05-04,35,FR
+DE-630,E-commerce,0,466.2,2025-05-29,120,Germany
+DE-632,App Mobile,1,240.4,2025-05-16,144,germany
+NL-635,App Mobile,0,347.37,2025-04-16,104,NL
+NL-637,App Mobile,0,298.98,2025-04-18,37,Netherlands
+IT-639,E-commerce,0,499.62,2025-04-22,346,italy
+DE-64,App Mobile,0,426.45,2025-05-21,795,germany
+IT-640,App Mobile,0,521.41,2025-04-18,196,Italy
+NL-642,E-commerce,0,504.5,2025-05-19,796,Netherlands
+DE-643,E-commerce,0,506.83,2025-04-24,259,germany
+IT-644,E-commerce,0,231.66,2025-04-04,374,IT
+PT-645,E-commerce,0,640.26,2025-04-14,776,PT
+NL-646,E-commerce,0,151.74,2025-05-14,396,Netherlands
+IT-647,E-commerce,0,379.16,2025-04-30,688,IT
+FR-65,E-commerce,0,326.98,2025-06-05,168,FR
+FR-651,E-commerce,0,501.78,2025-04-16,225,FR
+FR-653,E-commerce,0,644.06,2025-05-21,168,France
+PT-654,App Mobile,0,328.98,2025-04-05,881,PT
+DE-655,E-commerce,0,511.39,2025-04-24,16,germany
+PT-658,App Mobile,0,374.25,2025-06-16,835,Portugal
+DE-659,App Mobile,0,610.09,2025-04-17,656,germany
+NL-660,App Mobile,0,368.79,2025-06-14,86,NL
+PT-663,E-commerce,0,440.02,2025-06-04,780,portugal
+DE-664,App Mobile,0,353.01,2025-06-14,493,germany
+ES-665,E-commerce,0,440.01,2025-04-13,477,spain
+NL-666,E-commerce,0,236.19,2025-05-24,743,Netherlands
+DE-667,App Mobile,0,288.19,2025-04-15,218,germany
+FR-668,E-commerce,0,321.6,2025-04-20,167,france
+NL-67,App Mobile,0,414.7,2025-04-04,128,NL
+ES-670,App Mobile,0,173.7,2025-05-27,820,spain
+DE-672,App Mobile,0,337.28,2025-04-25,807,Germany
+NL-675,E-commerce,0,102.61,2025-05-23,126,NL
+IT-676,App Mobile,0,583.9,2025-05-20,254,italy
+FR-677,E-commerce,0,112.89,2025-06-14,827,FR
+NL-678,E-commerce,0,562.42,2025-05-04,37,NL
+FR-68,E-commerce,0,740.54,2025-05-23,413,France
+IT-686,E-commerce,0,207.3,2025-05-30,25,IT
+PT-689,App Mobile,0,405.34,2025-04-15,891,Portugal
+IT-691,App Mobile,0,475.07,2025-06-17,33,italy
+ES-694,App Mobile,0,183.33,2025-06-05,884,spain
+PT-695,App Mobile,0,437.62,2025-04-24,634,portugal
+IT-698,E-commerce,0,260.26,2025-05-16,96,Italy
+NL-700,E-commerce,0,249.32,2025-05-26,801,Netherlands
+ES-701,App Mobile,0,340.18,2025-06-13,855,Spain
+FR-702,App Mobile,0,333.21,2025-05-29,764,France
+IT-703,E-commerce,0,472.8,2025-05-05,660,IT
+FR-704,E-commerce,0,328.55,2025-05-18,418,France
+DE-705,E-commerce,0,190.64,2025-04-18,47,DE
+DE-706,App Mobile,0,118.14,2025-05-05,268,germany
+FR-707,E-commerce,0,89.46,2025-05-23,154,france
+PT-708,App Mobile,0,231.49,2025-04-16,951,Portugal
+IT-709,App Mobile,0,284.08,2025-04-28,596,italy
+PT-710,E-commerce,0,440.06,2025-06-17,826,PT
+ES-711,App Mobile,0,226.56,2025-05-24,695,spain
+FR-713,App Mobile,0,548.6,2025-05-06,253,FR
+FR-714,App Mobile,0,181.1,2025-04-18,764,France
+IT-715,E-commerce,0,512.83,2025-06-15,830,italy
+IT-716,E-commerce,0,483.65,2025-04-19,508,italy
+IT-718,App Mobile,1,180.9,2025-05-17,952,IT
+IT-719,E-commerce,0,381.98,2025-04-22,992,Italy
+FR-72,E-commerce,0,622.14,2025-05-19,710,France
+NL-722,App Mobile,0,238.35,2025-05-04,620,NL
+FR-724,E-commerce,0,183.62,2025-05-30,227,FR
+IT-725,App Mobile,0,401.53,2025-06-15,445,Italy
+NL-727,E-commerce,0,330.45,2025-04-22,834,Netherlands
+NL-728,App Mobile,1,309.68,2025-05-18,258,Netherlands
+IT-729,E-commerce,0,350.42,2025-04-27,190,italy
+ES-73,E-commerce,0,453.55,2025-05-19,477,Spain
+IT-730,E-commerce,0,191.32,2025-05-19,53,Italy
+DE-736,E-commerce,0,572.2,2025-04-14,505,Germany
+ES-737,E-commerce,0,410.06,2025-04-22,802,ES
+ES-739,App Mobile,0,350.65,2025-05-05,885,spain
+NL-740,E-commerce,0,415.23,2025-04-29,370,Netherlands
+IT-742,App Mobile,0,227.27,2025-04-20,123,Italy
+DE-744,App Mobile,0,202.93,2025-06-06,736,DE
+IT-745,E-commerce,0,120.29,2025-04-28,556,italy
+ES-746,E-commerce,0,302.4,2025-05-16,522,ES
+DE-747,App Mobile,0,250.93,2025-04-21,442,germany
+DE-749,E-commerce,0,240.91,2025-04-26,993,DE
+IT-75,App Mobile,0,526.82,2025-05-22,469,italy
+PT-750,E-commerce,0,230.45,2025-04-16,665,Portugal
+FR-751,E-commerce,0,342.96,2025-06-16,811,FR
+NL-753,App Mobile,0,368.2,2025-04-05,684,NL
+NL-755,App Mobile,0,298.02,2025-06-14,369,Netherlands
+FR-756,E-commerce,0,481.76,2025-06-13,499,FR
+ES-757,E-commerce,0,309.83,2025-04-26,161,ES
+IT-760,E-commerce,0,248.96,2025-04-04,172,italy
+DE-761,E-commerce,0,232.67,2025-05-31,858,Germany
+DE-762,E-commerce,0,222.42,2025-06-13,76,Germany
+PT-763,E-commerce,0,301.16,2025-04-21,602,PT
+ES-765,E-commerce,0,536.98,2025-04-20,417,ES
+PT-766,App Mobile,0,399.31,2025-06-16,955,PT
+ES-767,App Mobile,0,423.12,2025-04-19,427,ES
+NL-768,E-commerce,0,220.42,2025-05-28,247,Netherlands
+IT-769,E-commerce,0,490.92,2025-05-05,501,italy
+PT-770,E-commerce,0,430.6,2025-04-28,714,Portugal
+DE-772,E-commerce,0,334.34,2025-04-28,970,germany
+PT-774,App Mobile,0,335.05,2025-05-22,798,Portugal
+NL-776,E-commerce,0,294.06,2025-05-18,361,NL
+NL-777,E-commerce,0,310.71,2025-05-28,572,Netherlands
+DE-778,E-commerce,0,96.18,2025-04-13,548,germany
+NL-779,App Mobile,0,194.09,2025-04-17,577,NL
+DE-78,E-commerce,0,683.47,2025-05-18,321,DE
+IT-780,App Mobile,0,242.5,2025-04-13,407,italy
+IT-781,App Mobile,0,232.42,2025-04-23,639,IT
+DE-782,App Mobile,0,400.44,2025-04-13,19,germany
+FR-785,App Mobile,0,200.97,2025-05-31,393,france
+FR-787,E-commerce,0,282.36,2025-06-17,610,FR
+PT-790,E-commerce,0,639.14,2025-04-19,829,portugal
+NL-794,App Mobile,0,230.88,2025-05-24,215,netherlands
+PT-795,App Mobile,0,275.01,2025-04-21,741,Portugal
+ES-796,App Mobile,0,186.54,2025-05-04,754,ES
+IT-797,E-commerce,0,266.9,2025-05-21,657,Italy
+ES-798,E-commerce,0,341.26,2025-04-04,565,spain
+FR-799,App Mobile,0,251.92,2025-04-16,897,France
+IT-8,App Mobile,0,408.13,2025-05-26,277,italy
+FR-80,E-commerce,0,369.31,2025-05-25,735,france
+IT-800,E-commerce,0,555.4,2025-05-24,96,italy
+IT-801,E-commerce,0,476.87,2025-04-04,876,italy
+ES-802,App Mobile,0,456.18,2025-04-30,920,ES
+FR-808,E-commerce,0,168.3,2025-04-27,153,FR
+DE-81,App Mobile,1,449.17,2025-05-18,130,germany
+PT-810,App Mobile,0,319.98,2025-06-16,913,PT
+ES-811,App Mobile,0,427.27,2025-04-27,29,spain
+IT-812,E-commerce,0,246.26,2025-04-21,256,italy
+FR-815,App Mobile,0,160.89,2025-04-27,506,france
+IT-816,App Mobile,1,160.14,2025-05-15,456,IT
+NL-817,E-commerce,1,67.02,2025-05-06,485,Netherlands
+FR-818,E-commerce,0,250.7,2025-06-16,473,FR
+PT-819,E-commerce,0,143.36,2025-04-26,653,PT
+NL-82,E-commerce,0,753.88,2025-04-14,872,netherlands
+DE-820,E-commerce,0,463.74,2025-04-20,280,Germany
+FR-821,App Mobile,1,262.23,2025-05-14,233,FR
+ES-822,App Mobile,1,202.69,2025-05-18,690,spain
+NL-823,App Mobile,0,480.96,2025-04-24,323,Netherlands
+IT-824,E-commerce,0,223.28,2025-05-05,604,Italy
+PT-825,App Mobile,1,295.16,2025-05-13,643,Portugal
+FR-827,E-commerce,0,251.9,2025-06-14,253,FR
+PT-830,App Mobile,0,226.8,2025-06-14,659,PT
+ES-832,E-commerce,0,266.58,2025-04-23,570,ES
+FR-833,E-commerce,0,217.91,2025-04-29,511,FR
+IT-834,App Mobile,0,196.52,2025-06-17,626,Italy
+FR-837,E-commerce,0,570.97,2025-05-05,453,France
+ES-838,E-commerce,0,348.02,2025-05-27,903,ES
+IT-839,App Mobile,0,182.98,2025-05-31,935,italy
+FR-84,E-commerce,0,519.81,2025-05-17,932,france
+ES-842,App Mobile,0,181.08,2025-04-21,636,spain
+FR-843,App Mobile,0,232.34,2025-06-06,551,france
+ES-844,E-commerce,0,233.87,2025-05-25,802,spain
+IT-845,E-commerce,0,310.35,2025-05-26,612,IT
+FR-846,App Mobile,0,425.02,2025-04-17,541,FR
+DE-848,App Mobile,0,181.08,2025-06-06,500,DE
+NL-849,E-commerce,1,167.31,2025-06-06,869,NL
+NL-85,E-commerce,0,410.73,2025-05-15,344,Netherlands
+IT-850,E-commerce,0,472.29,2025-04-19,658,italy
+IT-852,App Mobile,0,387.92,2025-04-23,745,IT
+IT-853,App Mobile,0,150.6,2025-04-28,883,Italy
+IT-854,E-commerce,0,255.78,2025-04-16,254,italy
+FR-855,App Mobile,0,390.32,2025-05-21,710,France
+DE-856,E-commerce,0,206.9,2025-04-17,648,DE
+FR-857,App Mobile,0,377.18,2025-04-16,133,France
+PT-858,E-commerce,0,142.03,2025-05-14,659,PT
+FR-859,E-commerce,0,289.32,2025-05-22,39,france
+FR-86,App Mobile,0,709.19,2025-06-15,453,FR
+ES-861,E-commerce,0,406.56,2025-04-21,99,Spain
+DE-862,App Mobile,0,233.9,2025-06-06,912,DE
+FR-863,E-commerce,0,384.64,2025-04-17,39,france
+FR-864,E-commerce,1,282.2,2025-04-06,867,France
+DE-865,E-commerce,0,362.23,2025-05-29,117,germany
+NL-866,App Mobile,0,411.3,2025-04-23,796,Netherlands
+ES-868,App Mobile,0,66.93,2025-05-24,394,ES
+DE-87,E-commerce,0,350.92,2025-04-14,863,germany
+FR-870,App Mobile,0,363.72,2025-05-28,386,France
+DE-871,E-commerce,0,-381.21,2025-04-05,996,DE
+NL-872,E-commerce,1,116.41,2025-04-06,471,netherlands
+NL-873,E-commerce,0,263.07,2025-05-22,872,NL
+ES-874,E-commerce,0,259.33,2025-06-16,531,Spain
+IT-875,App Mobile,1,161.27,2025-05-17,54,Italy
+FR-876,App Mobile,0,142.9,2025-04-23,513,france
+NL-878,E-commerce,0,309.83,2025-04-16,800,NL
+FR-879,E-commerce,0,206.99,2025-04-27,387,france
+FR-88,App Mobile,0,577.9,2025-04-13,569,France
+IT-880,App Mobile,0,242.44,2025-04-19,380,IT
+PT-882,App Mobile,0,88.11,2025-06-15,634,portugal
+PT-883,App Mobile,0,422.95,2025-05-21,659,PT
+IT-884,App Mobile,0,402.96,2025-06-04,609,italy
+ES-885,App Mobile,0,273.51,2025-04-22,922,Spain
+IT-886,E-commerce,0,240.1,2025-05-25,53,Italy
+DE-89,E-commerce,0,312.2,2025-04-25,46,Germany
+PT-890,E-commerce,0,323.23,2025-04-18,625,portugal
+FR-895,App Mobile,0,61.09,2025-05-31,711,france
+ES-896,App Mobile,1,182.89,2025-05-16,9,Spain
+FR-899,App Mobile,0,291.04,2025-05-24,339,france
+FR-90,E-commerce,0,377.12,2025-05-26,2,France
+DE-902,App Mobile,0,305.5,2025-05-29,656,DE
+PT-903,App Mobile,0,446.43,2025-04-19,727,PT
+NL-904,E-commerce,0,222.07,2025-05-05,699,NL
+NL-905,App Mobile,0,133.9,2025-05-30,422,NL
+FR-906,E-commerce,0,297.44,2025-04-28,664,FR
+DE-907,E-commerce,0,247.13,2025-04-18,113,DE
+IT-908,App Mobile,0,224.36,2025-04-26,196,italy
+PT-909,App Mobile,0,461.34,2025-04-22,739,PT
+FR-912,E-commerce,1,113.2,2025-04-06,39,France
+PT-913,App Mobile,0,303.24,2025-05-27,729,Portugal
+NL-914,App Mobile,0,461.95,2025-05-25,684,NL
+DE-915,E-commerce,0,241.74,2025-04-20,672,DE
+NL-916,App Mobile,1,245.94,2025-05-18,342,NL
+NL-918,E-commerce,0,256.76,2025-04-15,226,NL
+IT-92,App Mobile,0,611.46,2025-05-30,691,Italy
+FR-921,App Mobile,1,117.84,2025-05-19,283,france
+ES-922,E-commerce,0,342.07,2025-05-23,246,spain
+FR-924,E-commerce,0,430.55,2025-05-04,74,france
+FR-925,E-commerce,0,343.79,2025-04-24,692,france
+FR-926,E-commerce,0,110.78,2025-05-29,393,france
+FR-927,App Mobile,0,371.36,2025-06-15,233,FR
+ES-931,E-commerce,0,270.18,2025-06-17,269,ES
+NL-932,App Mobile,0,317.29,2025-06-14,323,NL
+FR-934,E-commerce,0,146.03,2025-05-16,506,France
+IT-937,App Mobile,0,293.28,2025-06-16,649,italy
+ES-938,E-commerce,0,360.58,2025-05-19,42,Spain
+FR-94,E-commerce,0,396.88,2025-04-13,165,France
+PT-940,App Mobile,0,268.77,2025-04-21,988,Portugal
+IT-942,E-commerce,0,376.17,2025-04-29,75,IT
+FR-943,App Mobile,1,210.59,2025-05-16,230,france
+DE-944,E-commerce,0,246.83,2025-06-14,173,Germany
+FR-945,E-commerce,0,295.02,2025-04-17,304,FR
+NL-946,App Mobile,0,192.66,2025-04-16,289,NL
+NL-947,E-commerce,0,97.73,2025-06-16,127,Netherlands
+NL-949,E-commerce,0,87.45,2025-05-30,91,NL
+IT-950,E-commerce,0,524.09,2025-05-27,935,IT
+IT-952,E-commerce,0,258.61,2025-04-25,252,italy
+NL-953,App Mobile,0,532.3,2025-04-16,400,netherlands
+NL-955,App Mobile,0,490.7,2025-05-25,936,netherlands
+IT-956,App Mobile,0,166.11,2025-05-31,456,Italy
+IT-957,App Mobile,1,212.16,2025-05-15,181,IT
+DE-958,E-commerce,0,68.31,2025-05-22,958,DE
+ES-959,E-commerce,0,167.82,2025-05-04,959,spain
+FR-96,E-commerce,0,522.01,2025-04-20,135,FR
+DE-960,E-commerce,0,223.28,2025-05-28,237,DE
+NL-961,E-commerce,0,282.53,2025-06-17,613,netherlands
+NL-963,E-commerce,0,173.16,2025-06-04,342,NL
+PT-965,E-commerce,0,316.76,2025-05-27,988,Portugal
+IT-966,E-commerce,0,200.11,2025-05-17,326,IT
+IT-967,App Mobile,0,281.54,2025-04-26,496,IT
+FR-968,E-commerce,0,484.9,2025-06-13,350,France
+IT-969,E-commerce,0,216.4,2025-05-22,792,italy
+DE-971,App Mobile,0,185.94,2025-05-21,58,Germany
+FR-973,App Mobile,0,442.48,2025-06-17,953,France
+DE-975,App Mobile,0,437.07,2025-04-14,560,germany
+PT-976,E-commerce,1,220.59,2025-06-06,682,Portugal
+FR-977,App Mobile,0,189.74,2025-04-22,415,FR
+PT-978,E-commerce,0,355.24,2025-04-20,634,Portugal
+FR-979,E-commerce,0,228.04,2025-04-22,638,FR
+NL-98,E-commerce,0,413.91,2025-05-20,879,NL
+DE-980,App Mobile,0,448.26,2025-05-27,220,DE
+DE-981,E-commerce,0,149.36,2025-04-15,733,Germany
+DE-982,App Mobile,1,193.4,2025-05-19,70,DE
+DE-985,E-commerce,0,239.39,2025-04-05,697,DE
+FR-986,App Mobile,0,229.64,2025-05-23,735,france
+DE-989,E-commerce,0,287.64,2025-05-27,22,Germany
+FR-990,App Mobile,0,458.36,2025-04-17,327,France
+NL-991,App Mobile,0,200.08,2025-04-20,734,NL
+DE-992,App Mobile,1,214.08,2025-05-13,375,DE
+ES-993,E-commerce,0,311.37,2025-04-21,99,ES
+PT-994,App Mobile,1,477.09,2025-05-15,798,PT
+ES-995,E-commerce,0,489.02,2025-05-19,565,spain
+FR-999,E-commerce,0,109.62,2025-06-16,416,FR
