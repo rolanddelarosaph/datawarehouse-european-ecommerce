@@ -1,4 +1,4 @@
-# 🛍️ European Fashion Retail Data Warehouse
+# European Fashion Retail Data Warehouse
 
 **MySQL · Python · Medallion Architecture · SQL Analytics**
 
