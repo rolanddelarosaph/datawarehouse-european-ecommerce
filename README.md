@@ -9,7 +9,7 @@
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ![Pipeline Architecture](docs/architecture.png)
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 An end-to-end SQL data warehouse built for a European fashion retail business operating across six countries — Germany, France, Italy, Netherlands, Spain, and Portugal. The pipeline ingests raw transactional data from seven source tables, cleans and standardizes it through a Medallion Architecture in MySQL, and produces a star schema ready for business reporting and SQL-based analytics.
 
@@ -49,7 +49,7 @@ The analytical layer covers 14 business questions across revenue performance, pr
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Layer | Tool | Purpose |
 |---|---|---|
@@ -61,7 +61,7 @@ The analytical layer covers 14 business questions across revenue performance, pr
 
 ---
 
-## 📂 Data Sources
+##  Data Sources
 
 All data is sourced from a European fashion retail store dataset representing real transactional, product, customer, and inventory records.
 
@@ -77,7 +77,7 @@ All data is sourced from a European fashion retail store dataset representing re
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 DataWarehouse-EuropeanEcommerce/
@@ -133,7 +133,7 @@ DataWarehouse-EuropeanEcommerce/
 
 ---
 
-## 🥉 Bronze Layer — Raw Ingestion
+##  Bronze Layer — Raw Ingestion
 
 Seven tables loaded as-is from source CSV files using MySQL's `LOAD DATA LOCAL INFILE` — the fastest bulk-load method available in MySQL. A stored procedure (`bronze_load_bronze()`) truncates all Bronze tables before each run to ensure idempotency.
 
@@ -149,7 +149,7 @@ Seven tables loaded as-is from source CSV files using MySQL's `LOAD DATA LOCAL I
 
 ---
 
-## 🥈 Silver Layer — Cleaned & Standardized
+##  Silver Layer — Cleaned & Standardized
 
 A stored procedure (`transform_silver_layer()`) handles all cleaning. Silver tables are built from Bronze with the following transformations applied:
 
@@ -163,7 +163,7 @@ A stored procedure (`transform_silver_layer()`) handles all cleaning. Silver tab
 
 ---
 
-## 🥇 Gold Layer — Star Schema
+##  Gold Layer — Star Schema
 
 Analytics-ready star schema with surrogate keys, referential integrity, and four BI-ready views built directly on top.
 
@@ -182,7 +182,7 @@ Campaigns are joined to the fact table on `channel` + date range (`sale_date BET
 
 ---
 
-## ✅ Data Quality Tests
+## Data Quality Tests
 
 SQL-based data quality checks in `Tests/data_quality_tests.sql` validate the pipeline output:
 
@@ -220,7 +220,7 @@ All execution steps are logged to `pipeline.log` with timestamps. A failed run l
 
 ---
 
-## 📈 Business Findings
+##  Business Findings
 
 > All findings are derived from the Gold layer star schema using the queries in `sql/analytics/advanced_analytics.sql`.
 
@@ -281,7 +281,7 @@ The 26–35 age group is the highest-spending segment at €69,466, followed by 
 
 ---
 
-## 🗄️ SQL Analytics
+##  SQL Analytics
 
 The `sql/analytics/` folder contains two files demonstrating SQL skills at different levels.
 
@@ -310,7 +310,7 @@ Row counts, null checks, distribution analysis, date range validation, referenti
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 - Python 3.8+
